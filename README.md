@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8E7F28&height=250&section=header&text=KIMDOYEON&fontSize=30" />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dozagirugi&show_icons=true&theme=radical)
+
 <!--
 **dozagirugi/dozagirugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
