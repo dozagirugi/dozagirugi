@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dozagirugi&show_icons=true&theme=gruvbox)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dozagirugi&langs_count=8)](https://github.com/dozagirugi/github-readme-stats)
+
 <!--
 **dozagirugi/dozagirugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
