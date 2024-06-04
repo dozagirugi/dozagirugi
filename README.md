@@ -1,8 +1,7 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=KIM DOYEON&fontSize=15" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Hi&fontSize=90" />
 
 <!--
 **dozagirugi/dozagirugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
