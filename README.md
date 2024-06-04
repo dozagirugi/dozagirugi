@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,50,90&height=250&section=header&text=WELCOME!&fontSize=50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,50,90&height=250&section=header&text=KIMDOYEON%20GitHub%20!&fontSize=50&animation=fadeIn" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dozagirugi&show_icons=true&theme=ambient_gradient)
 
