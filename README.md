@@ -1,13 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color={
-    "idx": 0,
-    "color": {
-      "0": "F8B195",
-      "50": "F67280",
-      "100": "C06C84"
-    },
-    "text": "f7f5f5",
-    "textBg": "282829"
-  }&height=250&section=header&text=KIM%20DOYEON&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=KIM%20DOYEON&fontSize=50&animation=fadeIn" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dozagirugi&show_icons=true&theme=ambient_gradient)
 
