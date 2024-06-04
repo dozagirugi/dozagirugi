@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,100&height=250&section=header&text=KIMDOYEON%20GitHub%20!&fontSize=50&animation=fadeIn" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dozagirugi&show_icons=true&theme=ambient_gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dozagirugi&show_icons=true&theme=ambient_gradient&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dozagirugi&langs_count=8)](https://github.com/dozagirugi/github-readme-stats)
 
