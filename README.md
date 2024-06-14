@@ -1,10 +1,25 @@
+<div align="center" dir="auto">
+	<img style="max-width: 100%;" src="https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=135&section=header&text=Welcome%20my%20GitHub%20!&fontSize=50" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,100&height=250&section=header&text=KIMDOYEON%20GitHub%20!&fontSize=50&animation=fadeIn" />
+&nbsp;
+&nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dozagirugi&show_icons=true&theme=ambient_gradient&show_icons=true)
+<div align="center" dir="auto">
+	<img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=dozagirugi&show_icons=true&theme=transparent&show_icon=true&rank_icon=github" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dozagirugi&langs_count=8)](https://github.com/dozagirugi/github-readme-stats)
+&nbsp;
+&nbsp;
 
+<div align="center" dir="auto">
+	<img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dozagirugi&langs_count=8&layout=compact&theme=transparent" />
+</div>
+
+&nbsp;
+&nbsp;
+
+<div align="center" dir="auto">
 <details>
 	<summary>
 		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" 
@@ -50,7 +65,13 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" 
 	alt="Love Letter" 
 	width="25" 
-	height="25" /> How to reach me : 
+	height="25" /> How to reach me :
+ 
+ </div>
+
+
+
+ 
 <!--
 **dozagirugi/dozagirugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
