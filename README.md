@@ -38,6 +38,8 @@
 			height="25" /> I’m currently learning ...
 	</summary>
 	<br>
+
+ <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
  </details>
 
 <details>
