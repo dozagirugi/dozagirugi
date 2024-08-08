@@ -19,30 +19,30 @@
 &nbsp;
 &nbsp;
 
-<div align="center" dir="auto">
-<details>
-	<summary>
-		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" 
-			alt="Smiling Face with Hearts" 
-			width="25" 
-			height="25" /> I’m currently working on ...
-	</summary>
-	<br>
-</details>
-
-<details>
-	<summary>
-		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" 
-			alt="Nerd Face" 
-			width="25" 
-			height="25" /> I’m currently learning ...
-	</summary>
-	<br>
-
+//<div align="center" dir="auto">
+//<details>
+//	<summary>
+//		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" 
+//			alt="Smiling Face with Hearts" 
+//			width="25" 
+//			height="25" /> I’m currently working on ...
+//	</summary>
+//	<br>
+//</details>
+//
+//<details>
+//	<summary>
+//		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" 
+//			alt="Nerd Face" 
+//			width="25" 
+//			height="25" /> I’m currently learning ...
+//	</summary>
+//	<br>
+//
 //react
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
+//<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
 //java
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
+//<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
