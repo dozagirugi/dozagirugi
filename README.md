@@ -25,7 +25,7 @@
 		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling Face with Hearts.png"
 			alt="Smiling Face with Hearts"
 			width="25"
-			height="25" /> 요즘 작업하고 있는 것
+			height="25" /> 지금 진행 중인 토이 프로젝트 ( •̀ ω •́ )✧ 
 	</summary>
 	<br>
 </details>
@@ -35,7 +35,7 @@
 		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png"
 			alt="Nerd Face"
 			width="25"
-			height="25" /> 요즘 공부하고 있는 것
+			height="25" /> 지금 이걸 공부하고 있어요 (o゜▽゜)o☆
 	</summary>
 	<br>
 
@@ -63,7 +63,7 @@
 		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png"
 			alt="Face with Monocle"
 			width="25"
-			height="25" /> 앞으로 배우고 싶은 것
+			height="25" /> 배우고 싶은 것은... (☞ﾟヮﾟ)☞
 	</summary>
 <br>
 </details>
@@ -73,7 +73,7 @@
 		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png"
 			alt="Love Letter"
 			width="25"
-			height="25" /> 저에게 연락하고 싶으신가요?
+			height="25" /> 여기로 연락해주세요 
 	</summary>
 <br>
 </details>
