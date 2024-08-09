@@ -108,12 +108,12 @@
 			height="25" /> 공부 중
 	</summary>
 	
-	<br>
+<br>
 
- <!-- REST API -->
+<!-- REST API -->
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
 
- 	<br>
+ <br>
   
 </details>
 
