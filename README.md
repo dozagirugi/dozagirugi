@@ -84,7 +84,7 @@
 		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png"
 			alt="Love Letter"
 			width="25"
-			height="25" />   여기로 연락해주세요 👇
+			height="25" />                 여기로 연락해주세요 👇
 	</summary>
 <br>
 </details>
