@@ -19,20 +19,12 @@
 &nbsp;
 &nbsp;
 
-<div align="center" dir="auto">
-<details>
-	<summary>
-		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling Face with Hearts.png"
-			alt="Smiling Face with Hearts"
-			width="25"
-			height="25" /> 보유 기술
-	</summary>
+보유기술 🍞
+=
 	
-<br>
 
-***
-**Back-End 🤘**
-***
+**Back-End**
+-
  
 <br>
 <br>
@@ -50,9 +42,8 @@
 <br>
 <br>
 
-***
-**Front-End ✌**
-***
+**Front-End**
+-
 
 <br>
 <br>
@@ -66,9 +57,8 @@
 <br>
 <br>
 
-***
-**Data Base 🤙**
-***
+**Data Base**
+-
 
 <br>
 <br>
@@ -83,10 +73,8 @@
 <br>
 <br>
 
-
-***
-**Etc. 🤙**
-***
+**Etc.**
+-
 
 <br>
 <br>
@@ -98,43 +86,22 @@
 
 </div>
 
-</details>
-
-<details>
-	<summary>
-		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png"
-			alt="Nerd Face"
-			width="25"
-			height="25" /> 공부 중
-	</summary>
-	
 <br>
+<br>
+
+공부 중 🥯
+=
 
 <!-- REST API -->
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
 
- <br>
-  
-</details>
-
-<details>
-	<summary>
-		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png"
-			alt="Face with Monocle"
-			width="25"
-			height="25" /> 배우고 싶은 것
-	</summary>
-<br>
-</details>
-
-<details>
-	<summary>
-		여기로 연락해주세요 👇
-	</summary>
-	
 <br>
 
+배우고 싶은 것 🥐
+=
+
+
+#### 여기로 연락해주세요 👇
 **dozagirugi@gmail.com**
 
-</details>
 </div>
