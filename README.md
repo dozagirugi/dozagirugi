@@ -63,12 +63,6 @@
 <!-- React -->
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
 
-<!-- Github -->
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-
-<!-- REST API -->
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-
 <br>
 <br>
 
@@ -89,6 +83,21 @@
 <br>
 <br>
 
+
+***
+**Etc. 🤙**
+***
+
+<br>
+<br>
+
+<div style="display: flex; align-items: flex-start;">
+
+<!-- Github -->
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+
+</div>
+
 </details>
 
 <details>
@@ -98,8 +107,14 @@
 			width="25"
 			height="25" /> 공부 중
 	</summary>
+	
 	<br>
 
+ <!-- REST API -->
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+
+ 	<br>
+  
 </details>
 
 <details>
@@ -114,11 +129,12 @@
 
 <details>
 	<summary>
-		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png"
-			alt="Love Letter"
-			width="25"
-			height="25" /> 여기로 연락해주세요 👇
+		여기로 연락해주세요 👇
 	</summary>
+	
 <br>
+
+**dozagirugi@gmail.com**
+
 </details>
 </div>
