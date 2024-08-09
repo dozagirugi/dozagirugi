@@ -25,9 +25,70 @@
 		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling Face with Hearts.png"
 			alt="Smiling Face with Hearts"
 			width="25"
-			height="25" /> 잘함
+			height="25" /> 보유 기술
 	</summary>
-	<br>
+	
+<br>
+
+* * *
+**Back-End 🤘**
+* * *
+ 
+<br>
+<br>
+ 
+
+<div style="display: flex; align-items: flex-start;">
+	
+<!-- Java -->
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+
+<!-- Python -->
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />	
+</div>
+
+<br>
+<br>
+
+***
+**Front-End ✌**
+***
+
+<br>
+<br>
+
+
+<div style="display: flex; align-items: flex-start;">
+
+<!-- React -->
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+
+<!-- Github -->
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+
+<!-- REST API -->
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+
+<br>
+<br>
+
+***
+**Data Base 🤙**
+***
+
+<br>
+<br>
+
+<div style="display: flex; align-items: flex-start;">
+
+<!-- MySQL -->
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+
+</div>
+
+<br>
+<br>
+
 </details>
 
 <details>
@@ -39,23 +100,6 @@
 	</summary>
 	<br>
 
-<!-- React -->
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
-
-<!-- Java -->
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
-
-<!-- Github -->
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
-
-<!-- Python -->
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
-
-<!-- MySQL -->
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
-
-<!-- REST API -->
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /></div>
 </details>
 
 <details>
