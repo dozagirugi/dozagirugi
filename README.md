@@ -25,7 +25,7 @@
 		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling Face with Hearts.png"
 			alt="Smiling Face with Hearts"
 			width="25"
-			height="25" /> I’m currently working on ...
+			height="25" /> 요즘 작업하고 있는 것
 	</summary>
 	<br>
 </details>
@@ -35,21 +35,26 @@
 		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png"
 			alt="Nerd Face"
 			width="25"
-			height="25" /> I’m currently learning ...
+			height="25" /> 요즘 공부하고 있는 것
 	</summary>
 	<br>
 
-<!--react-->
+<!-- React -->
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
 
+<!-- Java -->
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
 
+<!-- Github -->
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
 
+<!-- Python -->
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
 
+<!-- MySQL -->
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div>
 
+<!-- REST API -->
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /></div>
 </details>
 
@@ -58,7 +63,7 @@
 		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png"
 			alt="Face with Monocle"
 			width="25"
-			height="25" /> I'm intersted in...
+			height="25" /> 앞으로 배우고 싶은 것
 	</summary>
 <br>
 </details>
@@ -68,7 +73,7 @@
 		<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png"
 			alt="Love Letter"
 			width="25"
-			height="25" /> How to reach me...
+			height="25" /> 저에게 연락하고 싶으신가요?
 	</summary>
 <br>
 </details>
