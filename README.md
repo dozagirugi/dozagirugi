@@ -20,7 +20,7 @@
 &nbsp;
 
 <details>
-<summary><h1>보유기술 🍞</h1></summary>
+<summary><h3>보유기술 🍞</h3></summary>
 	
 Back-End
 -
@@ -80,7 +80,7 @@ Etc.
 </details>
 
 <details>
-<summary><h1>공부 중 🥯</h1></summary>
+<summary><h2>공부 중 🥯</h2></summary>
 <div style="display: flex; align-items: flex-start;">
 	<!-- REST API -->
 	<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
