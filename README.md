@@ -20,7 +20,7 @@
 &nbsp;
 
 <details>
-<summary><h3>보유기술 🍞</h3></summary>
+<summary><h2>보유기술 🍞</h2></summary>
 	
 Back-End
 -
@@ -90,7 +90,7 @@ Etc.
 </details>
 
 <details>
-<summary><h1>배우고 싶은 것 🥐</h1></summary>
+<summary><h2>배우고 싶은 것 🥐</h2></summary>
 <div style="display: flex; align-items: flex-start;">
 	<!-- raspberrypi -->
 	<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" />
