@@ -34,7 +34,8 @@
 	<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
 	<!-- Python -->
 	<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />	
-	<img src="https://github.com/user-attachments/assets/b94c0458-653c-4c3e-90d0-633f83715bc3" alt="icon" width="65" height="65" />	
+	<!-- C -->
+	<img src="https://github.com/user-attachments/assets/c26ac54a-4ec9-4bd6-987f-957dfb9c0f81" alt="icon" width="65" height="65" />	
 
 </div>
 
