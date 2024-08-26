@@ -108,7 +108,8 @@ Etc.
 </div>
 </details>
 
-> #### 여기로 연락해주세요 👇
->dozagirugi@gmail.com
+<hr/>
 
+### 여기로 연락해주세요 👇
+>happyallday12@naver.com
 </div>
