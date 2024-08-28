@@ -107,9 +107,12 @@ Etc.
 	<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
 </div>
 </details>
-
+</div>
 <hr/>
 
-##### 여기로 연락해주세요 👇
->happyallday12@naver.com
+<div align="center" dir="auto">
+	<h5>여기로 연락해주세요 👇</h5>
+	happyallday12@naver.com
 </div>
+
+
