@@ -112,7 +112,7 @@ Etc.
 
 <div align="center" dir="auto">
 	<h5>여기로 연락해주세요 👇</h5>
-	happyallday12@naver.com
+	dozagirugi@gmail.com
 </div>
 
 
