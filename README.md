@@ -5,7 +5,7 @@
 &nbsp;
 &nbsp;
 
-<div align="left" dir="auto">
+<div align="center" dir="auto">
 	<img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=dozagirugi&show_icons=true&theme=default&show_icon=true&rank_icon=github" />
 </div>
 
