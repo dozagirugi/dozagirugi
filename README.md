@@ -1,4 +1,11 @@
 <div align="center" dir="auto">
+	<img style="max-width: 100%;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
+</div>
+
+&nbsp;
+&nbsp;
+
+<div align="center" dir="auto">
 	<img style="max-width: 100%;" src="	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
@@ -7,13 +14,6 @@
 
 <div align="center" dir="auto">
 	<img style="max-width: 100%;" src="	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-</div>
-
-&nbsp;
-&nbsp;
-
-<div align="center" dir="auto">
-	<img style="max-width: 100%;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
 </div>
 
 &nbsp;
